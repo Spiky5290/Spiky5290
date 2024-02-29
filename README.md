@@ -48,15 +48,28 @@ I'm an Enthusiastic Developer and Creator building my version of the digital wor
     <!-- <h4>Languages:</h4><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,git,c,vscode,npm" /></a> -->
   </div>
 <div align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,git,c,vscode,npm,mysql" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,java,c,git,vscode,npm,mysql" />
   <br/>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react" /></div>
   </a></div>
 </p>
-
 <br />
+<details>
+<summary><h2>🛠️ My Tools</h2></summary>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+<a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+</details>
 
-<h2>📊 Stats and Activity</h2>
+
+<details>
+  <summary><h2>📊 Stats and Activity</h2></summary>
 <div align="center flex-container"  style="display: flex">
   <div>
     <h3 align="left">🔥 Streak Stats</h3>
@@ -77,6 +90,7 @@ I'm an Enthusiastic Developer and Creator building my version of the digital wor
     </a>
   </div>
 </div>
+</details>
 
 <!--
 **Spiky5290/Spiky5290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
