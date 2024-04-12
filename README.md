@@ -92,6 +92,10 @@ I'm an Enthusiastic Developer and Creator building my version of the digital wor
 </div>
 </details>
 
+## 🌐 Let's Connect
+[![Gmail](https://img.shields.io/badge/Mail%20Me-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:aniketss1111@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketsingh1111/)
+
 <!--
 **Spiky5290/Spiky5290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
